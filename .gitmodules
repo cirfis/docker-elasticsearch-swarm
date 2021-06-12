@@ -1,0 +1,3 @@
+[submodule "docker-swarm-elasticsearch"]
+	path = docker-swarm-elasticsearch
+	url = https://github.com/imyoungyang/docker-swarm-elasticsearch
